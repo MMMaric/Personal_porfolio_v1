@@ -2,3 +2,5 @@
 Personal portfolio with projects
 
 -> About : 
+
+-> Technologies used : 
